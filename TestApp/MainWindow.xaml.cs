@@ -20,6 +20,9 @@ namespace TestApp
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        string test = "test";
+
         public MainWindow()
         {
             InitializeComponent();
